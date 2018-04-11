@@ -7,3 +7,6 @@ cd emacs-settings<br>
 mv * ../<br>
 <br>
 https://github.com/jonathanchu/atom-one-dark-theme
+<br><br>
+cd ../
+mv .bash_aliases ../
