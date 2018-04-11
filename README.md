@@ -8,5 +8,5 @@ mv * ../<br>
 <br>
 https://github.com/jonathanchu/atom-one-dark-theme
 <br><br>
-cd ../
+cd ../<br>
 mv .bash_aliases ../
