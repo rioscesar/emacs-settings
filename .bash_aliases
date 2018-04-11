@@ -1,0 +1,5 @@
+alias ga='git add'
+alias gf='git push -f'
+alias gb='git checkout -b'
+alias gc='git commit'
+alias gs='git status'
