@@ -1,5 +1,6 @@
 alias ga='git add'
 alias gf='git push -f'
 alias gb='git checkout -b'
-alias gc='git commit'
+alias gm='git commit -m'
 alias gs='git status'
+alias gc='git cone'
